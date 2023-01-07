@@ -1,0 +1,3 @@
+2
+11       Nguyen Huy Hoang     , 10/11/1990     22        16      Nam      
+12       Le Tuan Minh         , 22/11/1995     25        17      Nam      

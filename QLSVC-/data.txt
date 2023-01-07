@@ -1,0 +1,14 @@
+12
+12345    Vu Lan Huong         , 24/05/2001     TTM       16      Nu       
+65101    Vu The Duyet         , 05/08/2003     CNT       16      Nam      
+67586    Bui Van Bao          , 02/11/2003     TTM       18      Nam      
+64188    Vuong Thi Van        , 01/04/2003     KPM       16      Nu       
+63672    Bui Thanh Tung       , 03/04/2003     CNT       18      Nam      
+63585    Le Anh Tuan          , 03/18/2003     KPM       18      Nam       
+88888    Luong Cong Nhat      , 12/09/2002     CNT       17      Nam      
+99999    Mai Van Dao          , 12/09/2002     TTM       17      Nu       
+61587    Phan Manh Dung       , 23/09/2002     KPM       17      Nam       
+69672    Tran Thi Thao        , 16/09/2000     CNT       15      Nu       
+60666    Nguyen Huy Hoang     , 01/09/2003     TTM       17      Nam       
+76161    Nguyen T.Anh Big     , 30/03/2003     CNT       17      Nu     
+  
